@@ -1,0 +1,12 @@
+{
+  "README.md": "1026552a465dfbda67386a2727eff48f",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/files.pp": "47f8a784481284b2b840280dc8c0ac82",
+  "manifests/init.pp": "73be6941a4d30ab821bc9ac85a71c5e4",
+  "manifests/users/alice.pp": "c9760b737bf469e83046fd066ea9e870",
+  "manifests/users/bob.pp": "a95f34294bb114e00912053a79269976",
+  "metadata.json": "24eba65e6442187070b93cf53e229963",
+  "spec/classes/init_spec.rb": "cd4f6e4e0d25b019b3006a40c43d13c9",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "tests/init.pp": "a84e7d7ad975054a70657a57a6607d38"
+}

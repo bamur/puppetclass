@@ -1,0 +1,13 @@
+{
+  "name": "rht-webtest",
+  "version": "0.1.4",
+  "author": "rht",
+  "summary": "Red hat Training test web server.",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+  ]
+}
+
